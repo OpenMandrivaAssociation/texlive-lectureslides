@@ -1,6 +1,6 @@
 Name:		texlive-lectureslides
 Version:	62292
-Release:	1
+Release:	2
 Summary:	Combine single PDF files into one file
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lectureslides
