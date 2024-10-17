@@ -3,7 +3,7 @@ Version:	62292
 Release:	2
 Summary:	Combine single PDF files into one file
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lectureslides
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lectureslides
 License:	cc-by-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lectureslides.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lectureslides.doc.r%{version}.tar.xz
